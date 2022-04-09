@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo_App/static/css/main.3588e610.css",
+    "main.js": "/todo_App/static/js/main.baa1458c.js",
+    "static/media/deleteicon.gif": "/todo_App/static/media/deleteicon.1c87f211c170e490b886.gif",
+    "index.html": "/todo_App/index.html",
+    "main.3588e610.css.map": "/todo_App/static/css/main.3588e610.css.map",
+    "main.baa1458c.js.map": "/todo_App/static/js/main.baa1458c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3588e610.css",
+    "static/js/main.baa1458c.js"
+  ]
+}
