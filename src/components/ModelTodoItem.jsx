@@ -22,7 +22,7 @@ const ModelTodoItems = ({setItemsModel,Input, id}) =>{
       }
       dispatch(UpdateItems(schema))
       handlerModel()
-
+      console.log()
     }
     return (<>        
                 <div>
